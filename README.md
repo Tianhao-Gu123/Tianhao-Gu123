@@ -36,10 +36,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
 
-<p align="center"> 
-  Visitor count<br/>
-  <img src="https://profile-counter.glitch.me/youszoe/count.svg" />
-</p>
+
 
 <br/>
 
@@ -48,6 +45,10 @@
 <center><img src="http://ghchart.rshah.org/409ba5/yousazoe" alt="" /></center>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PhillipTian&show_icons=true&theme=radical)](https://github.com/PhillipTian/github-readme-stats)
+<p align="center"> 
+  Visitor count<br/>
+  <img src="https://profile-counter.glitch.me/youszoe/count.svg" />
+</p>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
