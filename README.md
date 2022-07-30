@@ -38,7 +38,7 @@
 <br/>
 <br/>
 <center><img src="http://ghchart.rshah.org/409ba5/yousazoe" alt="" /></center>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PhillipTian&show_icons=true&theme=radical)](https://github.com/PhillipTian/github-readme-stats)
+
 <p align="center"> 
   Visitor count<br/>
   <img src="https://profile-counter.glitch.me/youszoe/count.svg" />
