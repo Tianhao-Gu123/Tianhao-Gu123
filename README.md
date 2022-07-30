@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![](https://github-widgetbox.vercel.app/api/profile?username=PhillipTian&data=followers,repositories,stars,commits)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PhillipTian&show_icons=true&theme=radical)](https://github.com/PhillipTian/github-readme-stats)
+
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 <p align="center"> 
@@ -19,7 +19,8 @@
 - ⚡  JAVA/OCAML
 - ✍️  Blogger
 - ♟  Chess 
-
+![](https://github-profile-trophy.vercel.app/?username=Yousazoe&column=7)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PhillipTian&show_icons=true&theme=radical)](https://github.com/PhillipTian/github-readme-stats)
 
 <br/>
 <center><img src="http://ghchart.rshah.org/409ba5/yousazoe" alt="" /></center>
