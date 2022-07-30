@@ -35,15 +35,10 @@
 <br/>
 <br/>
 <center><img src="http://ghchart.rshah.org/409ba5/yousazoe" alt="" /></center>
+
 <!--START_SECTION:waka-->
-​```text
-C++          11 hrs 27 mins  ████████████░░░░░░░░░░░░░   48.61 % 
-C            2 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-CMake        2 hrs 9 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-Python       1 hr 53 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-JavaScript   1 hr 12 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-​```
 <!--END_SECTION:waka-->
+
 <p align="center"> 
   Visitor count<br/>
   <img src="https://profile-counter.glitch.me/youszoe/count.svg" />
