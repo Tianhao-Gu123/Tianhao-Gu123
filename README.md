@@ -8,8 +8,28 @@
 <a href="https://moon-svg.minung.dev">
   <img src="https://moon-svg.minung.dev/moon.svg?date=2022-03-24&theme=basic" alt="moon.svg" />
 </a>
+
   <!--START_SECTION:waka-->
   <!--END_SECTION:waka-->
+  
+  <h3> 👨🏻‍💻 About Me </h3>
+
+- 🔭 &nbsp; I’m currently learning in TUM
+- 🤔 &nbsp; Exploring new technologies and developing software.
+- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
+- 💼 &nbsp; Android developer and front-end web developer.
+- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
+- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
+- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Java | Ocaml
+- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
+- 🛢 &nbsp; MySQL | Firebase | Xampp
+- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
+- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
+
 
 ![](https://github-widgetbox.vercel.app/api/profile?username=PhillipTian&data=followers,repositories,stars,commits)
 
