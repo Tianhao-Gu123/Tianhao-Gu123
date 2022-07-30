@@ -10,6 +10,9 @@
 
 <br/>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 - 🍻  Study at Technische Universität München(TUM), _Computer Science_
 - ⚡  JAVA/OCAML
