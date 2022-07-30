@@ -37,6 +37,11 @@
 <center><img src="http://ghchart.rshah.org/409ba5/yousazoe" alt="" /></center>
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <p align="center"> 
