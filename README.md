@@ -10,10 +10,10 @@
 <br/>
 
 
-- 🍻  Study at Beijing Normal University Zhuhai, _Computer Science_
-- ⚡  C / C++ / C#
+- 🍻  Study at Technische Uni Muenchen(TUM), _Computer Science_
+- ⚡  JAVA/OCAML
 - ✍️  Blogger
-- ♟  Chess / Chess960 
+- ♟  Chess 
 
 
 <br/>
