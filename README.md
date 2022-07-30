@@ -8,6 +8,8 @@
 <a href="https://moon-svg.minung.dev">
   <img src="https://moon-svg.minung.dev/moon.svg?date=2022-03-24&theme=basic" alt="moon.svg" />
 </a>
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
 
 ![](https://github-widgetbox.vercel.app/api/profile?username=PhillipTian&data=followers,repositories,stars,commits)
 
@@ -19,10 +21,6 @@
 </p>
 
 <br/>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 
 - 🍻  Study at Technische Universität München(TUM), _Computer Science_
 - ⚡  JAVA/OCAML
