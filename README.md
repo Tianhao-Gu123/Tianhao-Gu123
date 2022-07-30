@@ -11,6 +11,8 @@
   <img src="https://moon-svg.minung.dev/moon.svg?date=2022-03-24&theme=basic" alt="moon.svg" />
 </a>
 
+![](https://github-widgetbox.vercel.app/api/profile?username=PhillipTian&data=followers,repositories,stars,commits)
+
   <!--START_SECTION:waka-->
   <!--END_SECTION:waka-->
 <h3> 👨🏻‍💻 About Me </h3>
@@ -33,8 +35,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
 
-![](https://github-widgetbox.vercel.app/api/profile?username=PhillipTian&data=followers,repositories,stars,commits)
-
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 <p align="center"> 
   Visitor count<br/>
@@ -43,10 +43,6 @@
 
 <br/>
 
-- 🍻  Study at Technische Universität München(TUM), _Computer Science_
-- ⚡  JAVA/OCAML
-- ✍️  Blogger
-- ♟  Chess 
 
 ![](https://github-profile-trophy.vercel.app/?username=PhillipTian&column=7)
 
