@@ -10,7 +10,7 @@
 <br/>
 
 
-- 🍻  Study at Technische Uni Muenchen(TUM), _Computer Science_
+- 🍻  Study at Technische Universität München(TUM), _Computer Science_
 - ⚡  JAVA/OCAML
 - ✍️  Blogger
 - ♟  Chess 
