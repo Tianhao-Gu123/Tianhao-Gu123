@@ -21,7 +21,7 @@
 - 💼 &nbsp; Want to be a Android developer and front-end web developer.
 - 🌱 &nbsp; Now Enthusiast in cyber Security and Artificial Intelligence .
 - ✍️ &nbsp; I likes reading.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- ☕ &nbsp; 我非常喜欢诗歌，repository有我写的诗歌
 
 <h3>🛠 Tech Stack</h3>
 
