@@ -39,7 +39,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+OCaml   1 hr 28 mins    █████████████████████████   99.93 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
