@@ -39,8 +39,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-OCaml   5 hrs 43 mins   █████████████████████████   99.95 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+OCaml   4 hrs 14 mins   █████████████████████████   99.96 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
