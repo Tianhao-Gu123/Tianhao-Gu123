@@ -39,10 +39,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java             5 hrs 25 mins   █████████████████████████   99.79 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-Gradle           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-Groovy           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Java   40 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
