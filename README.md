@@ -15,12 +15,12 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning in TUM
+- 🔭 &nbsp; I’m currently learning in TUM, ranking top 10 in CS(2023 THE)
 - 🤔 &nbsp; Exploring new technologies and developing software.
 - 🎓 &nbsp; Studying Computer Science, and loves Mathematics.
 - 💼 &nbsp; Want to be a Android developer and front-end web developer.
-- 🌱 &nbsp; Now Enthusiast in cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; I likes reading.
+- 🌱 &nbsp; Now Enthusiast in Artificial Intelligence .
+- ✍️ &nbsp; I likes reading and meeting new people
 - ☕ &nbsp; 我非常喜欢诗歌，repository有我写的诗歌
 
 <h3>🛠 Tech Stack</h3>
