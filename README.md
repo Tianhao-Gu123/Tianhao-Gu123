@@ -18,17 +18,17 @@
 - 🔭 &nbsp; I’m currently learning in TUM, ranking top 10 in CS(2023 THE)
 - 🤔 &nbsp; Exploring new technologies and developing software.
 - 🎓 &nbsp; Studying Computer Science, and loves Mathematics.
-- 💼 &nbsp; Want to be a Android developer and front-end web developer.
+- 💼 &nbsp; IT Consulting & Machine Learning.
 - 🌱 &nbsp; Now Enthusiast in Artificial Intelligence .
 - ✍️ &nbsp; I likes reading and meeting new people
-- ☕ &nbsp; 我非常喜欢诗歌，repository有我写的诗歌
+- ☕ &nbsp; 我非常喜欢诗歌
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Dart | Java | C++ |Ocaml
-- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
+- 💻 &nbsp; Python | C | Java | C++ | Ocaml 
+- 🌐 &nbsp; Android | HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
+- 🔧 &nbsp; PyCharm | Visual Studio code | Eclipse | Git
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
