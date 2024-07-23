@@ -1,8 +1,6 @@
 <h2> Hey there! I'm Tianhao Gu(顾天浩). <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-
-
 <!-- real time -->
 <a href="https://moon-svg.minung.dev">
   <img src="https://moon-svg.minung.dev/moon.svg?theme=basic" alt="moon.svg" />
@@ -20,7 +18,7 @@
 - 💼 &nbsp; IT Consulting & Machine Learning.
 - 🌱 &nbsp; Now Enthusiast in Artificial Intelligence .
 - ✍️ &nbsp; I likes reading and meeting new people
-- ☕ &nbsp; 我非常喜欢诗歌
+- ☕ &nbsp; For more pls visit my LinkedIn page and my personal website
 
 <h3>🛠 Tech Stack</h3>
 
