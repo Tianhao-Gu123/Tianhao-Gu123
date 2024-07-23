@@ -36,23 +36,12 @@
 <br/>
 <center><img src="http://ghchart.rshah.org/409ba5/yousazoe" alt="" /></center>
 
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
 <p align="center"> 
   Visitor count<br/>
   <img src="https://profile-counter.glitch.me/youszoe/count.svg" />
 </p>
 <h3> 🤝🏻 Connect with Me </h3>
- <a href="www.pornhub.com"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
- <a href="www.pornhub.com"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
  <a href="www.pornhub.com"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
- <a href="www.pornhub.com"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
 
