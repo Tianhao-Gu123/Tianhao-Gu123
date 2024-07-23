@@ -10,7 +10,6 @@
 
 <!-- specific date -->
 <a href="https://moon-svg.minung.dev">
-  <img src="https://moon-svg.minung.dev/moon.svg?date=2022-03-24&theme=basic" alt="moon.svg" />
 </a>
 
 <h3> 👨🏻‍💻 About Me </h3>
@@ -26,20 +25,8 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | C | Java | C++ | Ocaml 
-- 🌐 &nbsp; Android | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; PyCharm | Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
+- 🔧 &nbsp; PyCharm | Visual Studio code | Git
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
-<br/>
-<br/>
-<center><img src="http://ghchart.rshah.org/409ba5/yousazoe" alt="" /></center>
-
-<p align="center">
-  Visitor count<br/>
-  <img src="https://profile-counter.glitch.me/youszoe/count.svg" />
-</p>
 <h3> 🤝🏻 Connect with Me </h3>
 <a href="https://www.linkedin.com/in/tianhao-gu-tum/">
   <img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" />
