@@ -36,12 +36,13 @@
 <br/>
 <center><img src="http://ghchart.rshah.org/409ba5/yousazoe" alt="" /></center>
 
-<p align="center"> 
+<p align="center">
   Visitor count<br/>
   <img src="https://profile-counter.glitch.me/youszoe/count.svg" />
 </p>
 <h3> 🤝🏻 Connect with Me </h3>
- <a href="www.pornhub.com"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-</p>
+<a href="https://www.linkedin.com/in/tianhao-gu-tum/">
+  <img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" />
+</a>
 
 
