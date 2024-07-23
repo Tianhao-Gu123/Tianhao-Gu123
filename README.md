@@ -18,7 +18,8 @@
 - 💼 &nbsp; IT Consulting & Machine Learning.
 - 🌱 &nbsp; Now Enthusiast in Artificial Intelligence .
 - ✍️ &nbsp; I likes reading and meeting new people
-- ☕ &nbsp; For more pls visit my LinkedIn page and my personal website
+- ☕ &nbsp; For more please visit my LinkedIn
+  and my personal website https://tianhao-gu123.github.io/
 
 <h3>🛠 Tech Stack</h3>
 
