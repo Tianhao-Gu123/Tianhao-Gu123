@@ -12,9 +12,8 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning in TUM, ranking top 10 in CS(2023 THE)
+- 🔭 &nbsp; I’m currently learning in TUM, ranking top 10 in CS (2023 THE)
 - 🤔 &nbsp; Exploring new technologies and developing software.
-- 🎓 &nbsp; Studying Computer Science, and loves Mathematics.
 - 💼 &nbsp; IT Consulting & Machine Learning.
 - 🌱 &nbsp; Now Enthusiast in Artificial Intelligence .
 - ✍️ &nbsp; I likes reading and meeting new people
