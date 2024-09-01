@@ -1,15 +1,6 @@
 <h2> Hey there! I'm Tianhao Gu(顾天浩). <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-<!-- real time -->
-<a href="https://moon-svg.minung.dev">
-  <img src="https://moon-svg.minung.dev/moon.svg?theme=basic" alt="moon.svg" />
-</a>
-
-<!-- specific date -->
-<a href="https://moon-svg.minung.dev">
-</a>
-
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning in TUM, ranking top 10 in CS (2023 THE)
