@@ -17,17 +17,12 @@
 - 💼 &nbsp; IT Consulting & Machine Learning.
 - 🌱 &nbsp; Now Enthusiast in Artificial Intelligence .
 - ✍️ &nbsp; I likes reading and meeting new people
-- ☕ &nbsp; For more please visit my LinkedIn
-  and my personal website https://tianhao-gu123.github.io/
+- ☕ &nbsp; For more please visit my personal website https://tianhao-gu123.github.io/
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | C | Java | C++ | Ocaml 
 - 🔧 &nbsp; PyCharm | Visual Studio code | Git
 
-<h3> 🤝🏻 Connect with Me </h3>
-<a href="https://www.linkedin.com/in/tianhao-gu-tum/">
-  <img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" />
-</a>
 
 
